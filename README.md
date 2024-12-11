@@ -1,2 +1,1 @@
-# gitcord
-git for discord
+git style staging for discord servers
